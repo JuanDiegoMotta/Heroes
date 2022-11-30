@@ -7,3 +7,5 @@
 **Wonderwoman**
 **Iron-man**
 **Deadpool**
+**Green Lantern**
+**Robin**
